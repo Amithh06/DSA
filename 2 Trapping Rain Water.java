@@ -2,7 +2,7 @@
 Output: 6
 Explanation: The above elevation map (black section) is represented by array [0,1,0,2,1,0,1,3,2,1,2,1]. 
 In this case, 6 units of rain water (blue section) are being trapped. */
-// This Solution's Time complexity=O(n), Space complexity=O(1)
+// The Time and Space complexity of this solution :- Time complexity=O(n), Space complexity=O(1)
 
 class Solution {
     public int trap(int[] height) {
