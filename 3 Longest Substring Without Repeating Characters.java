@@ -3,7 +3,7 @@
 // Output: 3
 // Explanation: The answer is "abc",
 //  with the length of 3. Note that "bca" and "cab" are also correct answers.
-// This Solution's Time complexity=O(n), Space complexity=O(longest substring)
+//The Time and Space complexity of this solution :- Time complexity=O(n), Space complexity=O(longest substring)
 
 class Solution {
     public int lengthOfLongestSubstring(String s) {
