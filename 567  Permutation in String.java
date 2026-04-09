@@ -2,7 +2,7 @@
 // Input: s1 = "ab", s2 = "eidbaooo"
 // Output: true
 // Explanation: s2 contains one permutation of s1 ("ba").
-// This Solution's Time complexity=O(n), Space complexity=O(1)
+//The Time and Space complexity of this solution :- Time complexity=O(n), Space complexity=O(1)
 
 public class Solution {
     public boolean checkInclusion(String s1, String s2) {
